@@ -1,6 +1,6 @@
 # loyelto-webapp
 Le code frontend de l'application web loyel.to
-Écrit en React avec les librairies tanstack, react-router. Utilise Privy pour le OAuth
+Écrit en Typescript et React avec les librairies tanstack, react-router, MUI. Utilise Privy pour le OAuth
 
 Pour lancer:
 
